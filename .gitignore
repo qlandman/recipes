@@ -1,1 +1,8 @@
 .DS_Store
+.frontmatter/
+frontmatter.json
+settings.json
+public/
+
+public/recipes/index.html
+public/page/1/index.html

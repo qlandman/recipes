@@ -1,15 +1,16 @@
 ---
 title: Pasta Carbonara
-description: ""
+description: "Pasta Carbonara"
+summary: "Pasta Carbonara"
 date: 2024-04-18T18:31:53.116Z
-preview: /carbonara.webp
+featured_image: /carbonara.webp
 draft: false
+time: "30m"
 tags:
     - pasta
     - vegan
-categories: []
-type: default
 ---
+
 ## Ingrediënten
 
 - 300g - Tarwebloem

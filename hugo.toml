@@ -1,0 +1,5 @@
+baseURL = 'https://recepten.landhuis.net/'
+languageCode = 'nl-nl'
+title = 'Recepten'
+theme = 'cuisine-book'
+

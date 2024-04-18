@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recepten</title>
+    <link>https://recepten.landhuis.net/</link>
+    <description>Recent content on Recepten</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Thu, 18 Apr 2024 08:11:45 -0500</lastBuildDate>
+    <atom:link href="https://recepten.landhuis.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pain de Campagne</title>
+      <link>https://recepten.landhuis.net/recipes/brood-pain-campagne/</link>
+      <pubDate>Thu, 18 Apr 2024 08:11:45 -0500</pubDate>
+      <guid>https://recepten.landhuis.net/recipes/brood-pain-campagne/</guid>
+      <description>Pain de Campagne brood in de broodcloche</description>
+    </item>
+  </channel>
+</rss>

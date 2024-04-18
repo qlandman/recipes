@@ -8,7 +8,6 @@ draft: false
 time: "30m"
 tags:
     - pasta
-    - vegan
 ---
 
 ## Ingrediënten
